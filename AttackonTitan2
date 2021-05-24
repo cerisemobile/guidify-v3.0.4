@@ -83,7 +83,7 @@
     },
     "activities": {
       "splash": {
-        "duration": 5000
+        "duration": 4000
       },
       "start": {
         "enabled": false,
