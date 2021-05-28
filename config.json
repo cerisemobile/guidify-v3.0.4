@@ -99,7 +99,7 @@
       "list": {
         "item": {
           "_comment": "type = image, text, card",
-          "type": "image",
+          "type": "text",
           "loader": {
             "enabled": false,
             "duration": 5000
