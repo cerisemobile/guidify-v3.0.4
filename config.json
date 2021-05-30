@@ -12,9 +12,9 @@
     "ads": {
       "enabled": true,
       "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "facebook",
-      "mode_ads_native": "facebook",
-      "mode_ads_mediumrect": "facebook",
+      "mode_ads_interstitial": "admob",
+      "mode_ads_native": "admob",
+      "mode_ads_mediumrect": "admob",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
@@ -23,14 +23,14 @@
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_banner_id": "ca-app-pub-9450354479559142/2803937092",
         "admob_interstitial_id": [
-          "ca-app-pub-3940256099942544/1033173712",
-          "ca-app-pub-3940256099942544/1033173712",
-          "ca-app-pub-3940256099942544/1033173712"
+          "ca-app-pub-9450354479559142/9177773755",
+          "ca-app-pub-9450354479559142/7535381418",
+          "ca-app-pub-9450354479559142/3596136404"
         ],
-        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-        "admob_mediumrect_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_native_id": "ca-app-pub-9450354479559142/5238528743",
+        "admob_mediumrect_id": "ca-app-pub-9450354479559142/7728960719",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
@@ -109,8 +109,8 @@
       "item": {
         "type": "text, webview, richtext",
         "native_ad": false,
-        "banner_ad": false,
-        "interstitial_ad": false
+        "banner_ad": true,
+        "interstitial_ad": true
       }
     }
   },
@@ -143,6 +143,9 @@
         "image": "https://techonloop.com/wp-content/uploads/2019/01/live-6.png",
         "title": "Can you record on live Net TV?",
         "description": "Can you record on live Net TV? : The good thing is you can use the app on any of your devices like phone, tablet, or PC. You also have the option to record your favorite TV shows which you can watch later. No satellite dish or cable is required for streaming of the TV channels while you are using USTVNow.4"
+      },
+      {
+        "type": "native_ad"
       },
       {
         "image": "https://play-lh.googleusercontent.com/tT1ID4M2TKACFIQ7lUjxaTdUywdnYPDC99pvhSQ1vOwPZg1AhpcA14bpiZpwbwEsofg",
