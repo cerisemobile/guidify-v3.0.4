@@ -110,7 +110,7 @@
         "type": "text, webview, richtext",
         "native_ad": false,
         "banner_ad": true,
-        "interstitial_ad": true
+        "interstitial_ad": false
       }
     }
   },
