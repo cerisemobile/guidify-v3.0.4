@@ -12,9 +12,9 @@
     "ads": {
       "enabled": true,
       "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "facebook",
-      "mode_ads_native": "facebook",
-      "mode_ads_mediumrect": "facebook",
+      "mode_ads_interstitial": "admob",
+      "mode_ads_native": "admob",
+      "mode_ads_mediumrect": "admob",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
@@ -23,14 +23,14 @@
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_banner_id": "ca-app-pub-9450354479559142/2368822827",
         "admob_interstitial_id": [
-          "ca-app-pub-3940256099942544/1033173712",
-          "ca-app-pub-3940256099942544/1033173712",
-          "ca-app-pub-3940256099942544/1033173712"
+          "ca-app-pub-9450354479559142/9231606469",
+          "ca-app-pub-9450354479559142/1033173712",
+          "ca-app-pub-9450354479559142/1033173712"
         ],
-        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-        "admob_mediumrect_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_native_id": "ca-app-pub-9450354479559142/9233614073",
+        "admob_mediumrect_id": "ca-app-pub-9450354479559142/1544688136",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
@@ -110,7 +110,7 @@
         "type": "text, webview, richtext",
         "native_ad": false,
         "banner_ad": true,
-        "interstitial_ad": false
+        "interstitial_ad": true
       }
     }
   },
@@ -118,7 +118,7 @@
     "items": [
       {
         "image": "https://play-lh.googleusercontent.com/_nzYOfoBE71HpDEcOziBJ4iIn3dhz8RKJ_TnVbU4xdZ48sps4xbqq6WEQt2xD37PmQ=w720-h310-rw",
-        "title": "Test title 0",
+        "title": "Hello",
         "description": "Test description 0"
       },
       {
