@@ -66,8 +66,8 @@
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
-        "enabled": false,
-        "duration": 4000
+        "enabled": true,
+        "duration": 3000
       }
     },
     "rating": {
