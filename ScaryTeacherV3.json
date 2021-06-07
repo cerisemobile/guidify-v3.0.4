@@ -12,9 +12,9 @@
     "ads": {
       "enabled": true,
       "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "facebook",
+      "mode_ads_interstitial": "admob",
       "mode_ads_native": "facebook",
-      "mode_ads_mediumrect": "facebook",
+      "mode_ads_mediumrect": "admob",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
@@ -67,7 +67,7 @@
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
         "enabled": true,
-        "duration": 4000
+        "duration": 5000
       }
     },
     "rating": {
@@ -117,6 +117,9 @@
   "data": {
     "items": [
       {
+        "type": "native_ad"
+      },
+      {
         "image": "https://play-lh.googleusercontent.com/_nzYOfoBE71HpDEcOziBJ4iIn3dhz8RKJ_TnVbU4xdZ48sps4xbqq6WEQt2xD37PmQ=w720-h310-rw",
         "title": "STARTING",
         "description": "As the game consist simple controls and a touch arduous gameplay, therefore its crucial for the garners to use a lot of tips and tricks in it. The subsequent are some vital tips and tricks concerning all users should understand. You have to get a lot of coins : It means users have to be compelled to earn more and more coins. The simple and straightforward thanks to earn coins is by reading a lot of numbers of stories and chapters within the game. You have to earn ressources : The ressources are earned by finishing a lot of chapters and by reading more stories. One ought to earn enough keys by applying the scary Teacher 3D cheats."
@@ -132,12 +135,12 @@
         "description": "Some tips : The problem within the replay : If you are enjoying scary teacher 3D then you can't replay the chapters. So as to look at your favorite character, one should begin it from the start. Move between stories : Some gamers are unengaged to move between the stories. One will begin the stories from they leave. Users will begin the story while not losing the progress you created. By applying tips and tricks, you can be one of the best players of the game. Don't forget to collect coins! "
       },
       {
-        "type": "native_ad"
-      },
-      {
         "image": "https://play-lh.googleusercontent.com/z1ox8-CAeQT6jOv9jqfX775tE8eCswHZs-w8vxCmRK_LagBrqWVP3bUbGmA_oepYB1dU=w720-h310-rw",
         "title": "IMPORTANCE OF CURRENCY IN THE GAME",
         "description": "Importance of currency in the game Users need to provide a nice look to their characters a lot of money. You can unlock a lot of it in the stories and win coins. You can also link the game with your facebook account. Coins earned by work within the game, otherwise you will say that by connecting the sport with facebook You can also invite your friends via facebook : You can invite your friend to play the game with you and you can earn a lot of coins for each friend that open the game with the invitation you've sent to him "
+      },
+      {
+        "type": "native_ad"
       },
       {
         "image": "https://play-lh.googleusercontent.com/keQ1UYjv_fXVi1Jpi_jv6Kesni9BgNoOdSCPCvB__a8RR-QkctvLTAjtmcBQeUZ_ky8=w720-h310-rw",
@@ -148,9 +151,6 @@
         "image": "https://play-lh.googleusercontent.com/nyhXWWVCbbeYqdqi6asMTSl67w-R15vG1dKUGyru_D0FoCRk5NcVFiCAfzo686Ea7g=w720-h310-rw",
         "title": "",
         "description": ""
-      },
-      {
-        "type": "native_ad"
       },
       {
         "image": "https://play-lh.googleusercontent.com/3sWU3ymcFUGLEInFzbRjOT5ll181tju1N8kb7jefp5Oe5COFQm3vl7XjJDOZIXe_JDY=w720-h310-rw",
