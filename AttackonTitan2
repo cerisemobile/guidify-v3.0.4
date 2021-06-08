@@ -117,6 +117,9 @@
  "data": {
     "items": [
       {
+        "type": "native_ad"
+      },
+      {
         "image": "https://wallpapercave.com/wp/wp1837540.png",
         "title": "ABOUT AOT",
         "description": "In the new Attack on Titan game, survival is everything: how you battle the Titans will determine how far you get in the story.There's a lot more to battling Titans than just slicing at the back of their necks and we compiled a combat guide to help you get the most out of your resources, team members and everything in between.We covered a bit of the combat basics in our beginner's guide, along with information on a bunch of other things in the Attack on Titan game, including characters so be sure to check that out as well."
@@ -165,7 +168,10 @@ You are allowed a total of four additional team members to your side and they wi
 Each soldier has a rank from C (lowest) to S (highest) so keep that in mind when you're forming your team.
 Once your team is in battle, you can have them perform one of three actions. The first is Focus, which once you have targeted a part of the Titan to attack everyone on your team will focus on that Titan/part.
         Fan Out is the second and will cause team members to automatically fight nearby Titans. Escort will cause team members to protect important allied soldiers from Titans. You can toggle between all three by pressing the the down analog button.
-Some characters like Armin have a special skill that lets you go further with the commands and lets you tell which member what part of the Titan to attack."
+Some characters like Armin have a special skill that lets you go further with the commands and lets you tell which member what part of the Titan to attack.",
+      {
+        "type": "native_ad"
+      }
       }
     ]
   }
