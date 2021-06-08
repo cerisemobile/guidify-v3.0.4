@@ -71,7 +71,7 @@
       }
     },
     "rating": {
-      "enabled": false
+      "enabled": true
     },
     "popup": {
       "_comment": "link= , appid, url",
@@ -83,12 +83,12 @@
     },
     "activities": {
       "splash": {
-        "duration": 4000
+        "duration": 7000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 5000
         }
       },
