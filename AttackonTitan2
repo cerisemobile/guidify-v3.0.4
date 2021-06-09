@@ -102,48 +102,58 @@
       }
     }
   },
-  "data": {
+"data": {
     "items": [
       {
-        "image": "https://play-lh.googleusercontent.com/JBpTWdHEcFE_dHf8UP6S6sVAADcEVjgo5udNSsieWniTVPdl99BQgNQ-HqzZ9j1jpt0",
-        "title": "Game Information",
-        "description": "In Bad Guys at School you can play as students and revolt against school system, or decide to become a teacher that must maintain order despite the violence and brutality in the school. Play in multiplayer or single player mode and complete missions to earn reputation and money to become a Bad Guy."
+        "image": "https://wallpapercave.com/wp/wp1837540.png",
+        "title": "ABOUT AOT",
+        "description": "In the new Attack on Titan game, survival is everything: how you battle the Titans will determine how far you get in the story.There's a lot more to battling Titans than just slicing at the back of their necks and we compiled a combat guide to help you get the most out of your resources, team members and everything in between.We covered a bit of the combat basics in our beginner's guide, along with information on a bunch of other things in the Attack on Titan game, including characters so be sure to check that out as well."
       },
       {
-        "image": "https://play-lh.googleusercontent.com/-xJ_hyMT3DD0yyubh2jQWHZ1urW_wP0pkgTnG48av7FHwQ3rwkOSfjs1YIRZgfrRlIM=w720-h310-rw",
-        "title": "Customize Our Looks",
-        "description": "Beyond yourself, there are 101 other unique character in the game that you can customize to your liking. You can change each one of their costumes to make each a lot more different from the rest. To do this, you should click on the third icon on the upper left hand side of your screen which bring out your cell phone and then press on the phone button."
+        "image": "https://wallpapercave.com/wp/wp1837539.jpg",
+        "title": "TYPES OF TITANS",
+        "description": "Fans of the anime know that there are different kinds of Titans, ranging in size and ability. The smaller the Titan, the easier it is to subjugate, however, there are some different types of Titans that move differently.
+The first are your normal Titans that just walk around and attack. You can anchor and maneuver around these Titans easily to get to the weak spot on the back of the neck.
+Abnormals act in unpredictable ways, such as focusing on one target. They will also jump at you when you least expect it so be careful.
+And then there are Titans with defensive parts. These normally shield the nape, making it near impossible to sever. To combat this, use Flash or Sound Grenades to temporarily nullify the effects of these defensive parts."
       },
       {
-        "image": "https://play-lh.googleusercontent.com/zEaUdt1yKASzwIh0-hqZ-HFQAVn4tNrfn_aKftGzWlAKEPUQzPo5B2mDmRINI0d3mdE=w720-h310-rw",
-        "title": "Everyone Can Follow You",
-        "description": "Running around the school yard and its numerous facilities can be lonely sometimes despite seeing people from time to time especially during school hours. As you many want to have some people walk or run with you as you explore the school as well as the rest of the town."
+        "image": "https://wallpapercave.com/wp/wp1837541.jpg",
+        "title": "TERRAIN",
+        "description": "You'll be battling in different types of terrain in Attack on Titan . The usual city landscape is easily to navigate and use your Omni-Directional Mobility Device but there are times you will leave the city and fight in an open field terrain.
+With no building or objects to anchor yourself, fighting Titans will be more difficult. Warhorses are key in these battles, as they will help you travel faster and give you a place to leap and anchor yourself to Titans.
+You are also better off attacking the legs to get the Titans to bend down, allowing you to reach the back of their necks."
       },
       {
-        "image": "https://play-lh.googleusercontent.com/uWXCxhPPE1m-yQFdXU-dWBUbwtuSwrrEsmcF8tAhOxgBGu850T_Wetc6os_3O8VxSw=w720-h310-rw",
-        "title": "Buying Gifts",
-        "description": "When you first launch the game,you will start at your house and you can already grab a gift from your desk. You may initially want to keep holding it and remember that you can only carry 1 item at time."
+        "image": "https://wallpapercave.com/wp/wp1837543.jpg",
+        "title": "RESOURCES",
+        "description": "On the battlefield, your resources are everything. If you run out of gas or new blades, you are going to have a hard time completing your missions. Luckily, there are a lot of ways to replenish your resources in battle.
+First off, every character is alotted a certain number of resources (normally around two of everything) but what you'll need to know is how to replenish.
+On the screen, there are two gauges to be mindful of. The top gauge on the bottom part of the screen is your gas gauge and the bottom one is your blade's durability. If you run out of the gas gauge you won't be able to boost around, making it harder to travel. If your blade durability runs out, your attacks will do next to nothing in terms of damage."
       },
       {
-        "image": "https://play-lh.googleusercontent.com/zEaUdt1yKASzwIh0-hqZ-HFQAVn4tNrfn_aKftGzWlAKEPUQzPo5B2mDmRINI0d3mdE=w720-h310-rw",
+        "image": "https://wallpapercave.com/wp/wp1837545.jpg",
         "state": "free",
-        "title": "Joining Clubs and Playing Sport",
-        "description": "There are also club that don't engage in sports like the Garden Club Which is probably the firs club you'll see when your first enter the school."
+        "title": "NEAR-DEATH AND FOCUS TIME",
+        "description": "If a Titan attack brings you to a near-death state, your movement will be restricted. You'll quickly notice that your character is hobbling and won't be able to jump or dash away. You can wait long enough for the stat to be cured or use a Restorative in your inventory.
+However, if you're in this state and you're attacked by a Titan, time will slow down. This is Focus Time and this will allow you to avoid the Titan's attack. A Focus Meter will appear below your character's profile and will decrease the longer it's active. Once it's depleted, Focus Time will disappear."
       },
       {
-        "image": "https://play-lh.googleusercontent.com/-xJ_hyMT3DD0yyubh2jQWHZ1urW_wP0pkgTnG48av7FHwQ3rwkOSfjs1YIRZgfrRlIM=w720-h310-rw",
-        "title": "Vehicle Controls Guide",
-        "description": "to free the chickens from the Hen House you need to go through the gates, go up and right"
+        "image": "https://wallpapercave.com/wp/wp1837548.jpg",
+        "title": "SIDE MISSIONS",
+        "description": "Side Missions appear during your normal mission as green markers on the map. They can range from meeting up with another soldier, or saving a soldier from death.
+You don't have to complete these missions but there are a lot of benefits to doing so. Firstly, it increases your score at the end of a mission and like we said in our Resources section, completing Side Missions can replenish your inventory.
+Also, by saving soldiers during these Side Missions you can recruit them to your side."
       },
       {
-        "image": "https://play-lh.googleusercontent.com/uWXCxhPPE1m-yQFdXU-dWBUbwtuSwrrEsmcF8tAhOxgBGu850T_Wetc6os_3O8VxSw=w720-h310-rw",
-        "title": "Play by your own schedule",
-        "description": "you can find the magic potion In the science class, 1st (2nd?] Floor"
-      },
-      {
-        "image": "https://play-lh.googleusercontent.com/zEaUdt1yKASzwIh0-hqZ-HFQAVn4tNrfn_aKftGzWlAKEPUQzPo5B2mDmRINI0d3mdE=w720-h310-rw",
-        "title": "HOW TO DEAL",
-        "description": "Drop Car at the junkyard you do that you need to go driving the car to the junkyard then pick it up"
+        "image": "https://wallpapercave.com/wp/wp1837555.png",
+        "title": "TEAM MEMBERS",
+        "description": "On the battlefield, you may run into soldiers who you can recruit to join your team. Simply pressing circle will recruit them.
+You are allowed a total of four additional team members to your side and they will make fighting Titans a lot easier. If you come across another team member after you reached four, you can switch one out by pressing the control pad that is assigned to them.
+Each soldier has a rank from C (lowest) to S (highest) so keep that in mind when you're forming your team.
+Once your team is in battle, you can have them perform one of three actions. The first is Focus, which once you have targeted a part of the Titan to attack everyone on your team will focus on that Titan/part.
+        Fan Out is the second and will cause team members to automatically fight nearby Titans. Escort will cause team members to protect important allied soldiers from Titans. You can toggle between all three by pressing the the down analog button.
+Some characters like Armin have a special skill that lets you go further with the commands and lets you tell which member what part of the Titan to attack."
       }
     ]
   }
