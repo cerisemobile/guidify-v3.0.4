@@ -1,108 +1,125 @@
 {
-	"config": {
-		"version": "3.0.3",
-		"ads": {
-			"enabled": true,
-			"mode_ads_banner": "facebook",
-			"mode_ads_interstitial": "facebook",
-			"mode_ads_native": "facebook",
-			"mode_ads_rewarded": "",
-			"adcolony": {
-				"adcolony_app_id": "appaa814d2551b94cdb81",
-				"adcolony_interstitial_id": "vz8a72e7b691d04847bb",
-				"adcolony_banner_id": "vz50e276396cb0423581",
-				"adcolony_rewarded_id": ""
+  "config": {
+    "version": "3.0.4",
+    "apps": {
+      "guidify": {
+        "enabled": true
+      },
+      "photoify": {
+        "ebnabled": false
+      }
+    },
+    "ads": {
+      "enabled": true,
+      "mode_ads_banner": "facebook",
+      "mode_ads_interstitial": "facebook",
+      "mode_ads_native": "facebook",
+      "mode_ads_mediumrect": "facebook",
+      "mode_ads_rewarded": "",
+      "adcolony": {
+        "adcolony_app_id": "appaa814d2551b94cdb81",
+        "adcolony_interstitial_id": "vz8a72e7b691d04847bb",
+        "adcolony_banner_id": "vz50e276396cb0423581",
+        "adcolony_rewarded_id": ""
+      },
+      "admob": {
+        "admob_banner_id": "ca-app-pub-9450354479559142/2803937092",
+        "admob_interstitial_id": [
+          "ca-app-pub-9450354479559142/9177773755",
+          "ca-app-pub-9450354479559142/7535381418",
+          "ca-app-pub-9450354479559142/3596136404"
+        ],
+        "admob_native_id": "ca-app-pub-9450354479559142/5238528743",
+        "admob_mediumrect_id": "ca-app-pub-9450354479559142/7728960719",
+        "admob_rewarded_id": "",
+        "admob_unit_id": ""
+      },
+      "appodeal": {
+        "appodeal_app_key": "dfaea284bc7f8f1b7919e2271a495f8afbad91650112bf3a"
+      },
+      "facebook": {
+        "facebook_banner_id": "3733620980196631_3733641423527920",
+        "facebook_interstitial_id": "3733620980196631_3733642183527844",
+        "facebook_native_id": "3733620980196631_3733642813527781",
+        "facebook_mediumrect_id": "3733620980196631_3733644370194292"
+      },
+      "unity": {
+        "unity_app_id": "4100687",
+        "unity_banner_id": "Banner_Android",
+        "unity_interstitial_id": "Interstitial_Android",
+        "unity_rewarded_id": ""
+      },
+      "ironsource": {
+      }
+    },
+    "update": {
+      "_comment": "action= , url, app id",
+      "state": false,
+      "title": "Update your app",
+      "message": "New Version!",
+      "action": "",
+      "closeable": true
+    },
+    "exit": {
+      "_comment": "type=text, content=put your text here - type=native_ad - type=banner, image=example link=example",
+      "type": "native_ad",
+      "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+      "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+      "loader": {
+        "enabled": true,
+        "duration": 4000
+      }
+    },
+    "rating": {
+      "enabled": false
+    },
+    "popup": {
+      "_comment": "link= , appid, url",
+      "enabled": false,
+      "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+      "title": "Toca Life!\uD83C\uDF89",
+      "description": "Download and Enjoy!\n\uD83D\uDC4FNeon Rainbow Apartment\nThe new Life Wordl Town!\nBuild stories\nCreate Your World!",
+      "link": "http://google.com"
+    },
+    "activities": {
+      "splash": {
+        "duration": 7000
+      },
+      "start": {
+        "enabled": true,
+        "loader": {
+          "enabled": true,
+          "duration": 5000
+        }
+      },
+      "main": {
+        "_comment": "more=put developer id",
+        "more": ""
+      },
+      "list": {
+        "item": {
+          "_comment": "type = image, text, card",
+          "type": "card",
+          "loader": {
+            "enabled": true,
+            "duration": 5000
+          }
+        }
+      },
+      "item": {
+        "type": "text, webview, richtext",
+        "native_ad": false,
+        "banner_ad": true,
+        "interstitial_ad": true
+      }
+    }
+  },
+ "data": {
+		"items": [
+		   	{
+        "type": "native_ad"
 			},
-			"admob": {
-				"admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-				"admob_interstitial_id": [
-					"ca-app-pub-3940256099942544/1033173712",
-					"ca-app-pub-3940256099942544/1033173712",
-					"ca-app-pub-3940256099942544/1033173712"
-				],
-				"admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-				"admob_rewarded_id": "",
-				"admob_unit_id": ""
-			},
-			"appodeal": {
-				"appodeal_app_key": "dfaea284bc7f8f1b7919e2271a495f8afbad91650112bf3a"
-			},
-			"facebook": {
-				"facebook_banner_id": "1491189931212506_1491190207879145",
-				"facebook_interstitial_id": "1491189931212506_1491190887879077",
-				"facebook_native_id": "1491189931212506_1491191851212314"
-			},
-			"unity": {
-				"unity_app_id": "4163009",
-				"unity_banner_id": "Bannerad",
-				"unity_interstitial_id": "Interstitialad",
-				"unity_rewarded_id": ""
-			},
-			"ironsource": {}
-		},
-		"update": {
-			"_comment": "action= , url, app id",
-			"state": false,
-			"title": "Update your app",
-			"message": "New Version!",
-			"action": "",
-			"closeable": true
-		},
-		"exit": {
-			"_comment": "type=text, content=put your text here - type=native_ad - type=banner, image=example link=example",
-			"type": "native_ad",
-			"image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-			"link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-			"loader": {
-				"enabled": true,
-				"duration": 5000
-			}
-		},
-		"rating": {
-			"enabled": false
-		},
-		"popup": {
-			"_comment": "link= , appid, url",
-			"enabled": false,
-			"image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-			"title": "Toca Life!\uD83C\uDF89",
-			"description": "Download and Enjoy!\n\uD83D\uDC4FNeon Rainbow Apartment\nThe new Life Wordl Town!\nBuild stories\nCreate Your World!",
-			"link": "http://google.com"
-		},
-		"activities": {
-			"splash": {
-				"duration": 5000
-			},
-			"start": {
-				"enabled": true,
-				"loader": {
-					"enabled": true,
-					"duration": 4000
-				}
-			},
-			"main": {
-				"_comment": "more=put developer id",
-				"more": ""
-			},
-			"list": {
-				"item": {
-					"_comment": "type = image, text, card",
-					"type": "image",
-					"loader": {
-						"enabled": true,
-						"duration": 5000
-					}
-				}
-			},
-			"item": {
-				"native_ad": true,
-				"banner_ad": true,
-				"interstitial_ad": true
-			}
-		}
-	},
-	"data": {
-		"items": [{
+			{
 				"image": "https://wallpapercave.com/wp/wp1837540.png",
 				"title": "ABOUT AOT",
 				"description": "In the new Attack on Titan game, survival is everything: how you battle the Titans will determine how far you get in the story.There's a lot more to battling Titans than just slicing at the back of their necks and we compiled a combat guide to help you get the most out of your resources, team members and everything in between.We covered a bit of the combat basics in our beginner's guide, along with information on a bunch of other things in the Attack on Titan game, including characters so be sure to check that out as well."
@@ -122,6 +139,9 @@
 				"title": "RESOURCES",
 				"description": "On the battlefield, your resources are everything. If you run out of gas or new blades, you are going to have a hard time completing your missions. Luckily, there are a lot of ways to replenish your resources in battle.First off,every character is alotted a certain number of resources(normally around two of everything) but what you 'll need to know is how to replenish.On the screen,there are two gauges to be mindful of .The top gauge on the bottom part of the screen is your gas gauge and the bottom one is your blade 's durability. If you run out of the gas gauge you won't be able to boost around,making it harder to travel.If your blade durability runs out,your attacks will do next to nothing in terms of damage."
 			},
+			{
+        "type": "native_ad"
+      			},
 			{
 				"image": "https://wallpapercave.com/wp/wp1837545.jpg",
 				"state": "free",
